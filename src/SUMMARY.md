@@ -18,6 +18,12 @@
 
 ---
 
+# Dungeon of the Mad Bear
+
+- [Session X](dotmb/session_x.md)
+
+---
+
 # Killer Feng Campaign
 
 - [Characters and Organisations](kfc/characters.md)
