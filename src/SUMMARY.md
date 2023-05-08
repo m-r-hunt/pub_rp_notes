@@ -26,5 +26,6 @@
 
 # Killer Feng Campaign
 
+- [Rules](kfc/rules.md)
 - [Characters and Organisations](kfc/characters.md)
 - [Session 0](kfc/session_0.md)
