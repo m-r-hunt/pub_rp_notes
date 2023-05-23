@@ -29,3 +29,4 @@
 - [Rules](kfc/rules.md)
 - [Characters and Organisations](kfc/characters.md)
 - [Session 0](kfc/session_0.md)
+- [Session 1](kfc/session_1.md)

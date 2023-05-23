@@ -43,6 +43,18 @@ Distant cousin of Harlem from Japan. Improvised weapon fighter who is cursed to 
 
 Always reverses instead of blocking on a tie. Can choose who to pass initiative to.
 
+## Kentucky Famous Chinese
+
+The Chinese restaurant in the Kung-Fu Court dojo
+
+### Lin
+
+The owner and operator.
+
+### Lin's Husband
+
+We don't know his name and it would be awkward to ask.
+
 ## Kentucky Fight Club
 
 Another rival dojo from the same small town.
@@ -57,4 +69,22 @@ Mysterious, wears a suit and sunglasses. Fights like a Kung Fu Terminator.
 
 ### Hitashi
 
-"The only named mook/student".
+"The only named mook/student". "Always" fights with a bamboo pole.
+
+## Unaffiliated/Unknown
+
+### Felicity "Flick"
+
+Mysterious girl we met at the mall. Both cyber apes and the Kentucky Fight Club are apparently after her. Deployed mysterious technology to help us.
+
+### Useful Bot "UB40"
+
+Our best robot pal, a hovering drone.
+
+### Captain Richard Francis Burton
+
+Victorian explorer type who appeared to be in charge of cyber apes.
+
+### Jeffery 
+
+Cyber Ape Commander armed with plasma sword and giant rotary pistol cannon.
