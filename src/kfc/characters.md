@@ -43,6 +43,8 @@ Distant cousin of Harlem from Japan. Improvised weapon fighter who is cursed to 
 
 Always reverses instead of blocking on a tie. Can choose who to pass initiative to.
 
+---
+
 ## Kentucky Famous Chinese
 
 The Chinese restaurant in the Kung-Fu Court dojo
@@ -54,6 +56,8 @@ The owner and operator.
 ### Lin's Husband
 
 We don't know his name and it would be awkward to ask.
+
+---
 
 ## Kentucky Fight Club
 
@@ -70,6 +74,8 @@ Mysterious, wears a suit and sunglasses. Fights like a Kung Fu Terminator.
 ### Hitashi
 
 "The only named mook/student". "Always" fights with a bamboo pole.
+
+---
 
 ## Unaffiliated/Unknown
 
