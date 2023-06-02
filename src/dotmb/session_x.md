@@ -1,6 +1,6 @@
 # Session X
 
-Date: 5/5/23
+_Date: 5/5/23_
 
 I took notes for this session as a one off because Jethro was away.
 

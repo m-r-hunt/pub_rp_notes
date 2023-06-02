@@ -20,6 +20,7 @@
 
 # Dungeon of the Mad Bear
 
+- [Introduction](dotmb/introduction.md)
 - [Session X](dotmb/session_x.md)
 - [Session X+1](dotmb/session_x_1.md)
 - [Session X+2](dotmb/session_x_2.md)

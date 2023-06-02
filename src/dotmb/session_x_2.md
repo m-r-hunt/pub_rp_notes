@@ -1,5 +1,7 @@
 # Session X+2
 
+_Date: 2/6/23_
+
 Recap.
 
 ## Lore Dump
