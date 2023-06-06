@@ -77,7 +77,9 @@ Mysterious, wears a suit and sunglasses. Fights like a Kung Fu Terminator.
 
 ---
 
-## Unaffiliated/Unknown
+## Dragons
+
+Mysterious organisation who's hideout we've discovered.
 
 ### Felicity "Flick"
 
@@ -86,6 +88,14 @@ Mysterious girl we met at the mall. Both cyber apes and the Kentucky Fight Club 
 ### Useful Bot "UB40"
 
 Our best robot pal, a hovering drone.
+
+### Kold Feelingless Computer
+
+Dragon's base AI.
+
+---
+
+## Unaffiliated/Unknown
 
 ### Captain Richard Francis Burton
 
