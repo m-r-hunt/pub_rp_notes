@@ -43,8 +43,15 @@ We followed him out to the ancient juncture. On the way we encountered 2 terraco
 * Umbrella up the jacksie and then shattered from the inside
 * Sonic cufflink toll the dead attack
 
+That was the end basically. Saint cleaned up and Isamu pocketed some dust.
+
 ## Final Qi Point Standings
 
 * Ken/Harlem: 2
 * Max/Isamu: 2
 * Jethro/Saint: 1
+
+## Isamu's Secret Weapon List
+
+* Back gun
+* Pocket dust
