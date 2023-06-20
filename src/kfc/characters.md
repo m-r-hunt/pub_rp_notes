@@ -95,6 +95,14 @@ Dragon's base AI.
 
 ---
 
+## Temple of the Golden Lotus (Ancient Juncture)
+
+* At least one priest
+* Some temple guards
+* Unknown numbers of terrorised peasants
+
+---
+
 ## Unaffiliated/Unknown
 
 ### Captain Richard Francis Burton
