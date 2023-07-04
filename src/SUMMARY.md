@@ -36,3 +36,4 @@
 - [Session 1](kfc/session_1.md)
 - [Session 2](kfc/session_2.md)
 - [Session 3](kfc/session_3.md)
+- [Session 4](kfc/session_4.md)

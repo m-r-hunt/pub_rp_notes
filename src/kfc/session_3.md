@@ -35,8 +35,8 @@ Cut right before the fight kicked off.
 
 N.b. Qi points are now awarded per element/episode rather than per session since Alex has no idea how much we faff around/how pacing works.
 
-* Ken/Harlem: 3
-* Max/Isamu: 4
+* Ken/Harlem: 4
+* Max/Isamu: 3
 * Jethro/Saint: 2
 
 ## Isamu's Secret Weapon List
