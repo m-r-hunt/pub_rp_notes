@@ -41,4 +41,4 @@ Opened another room and found Spite. Told him Dean was dead and he got weird wit
 
 We went outside to prepare a very subtle ambush. Theo became a large boy. We stabbed the momment and heard a cry of pain. Busted back in, Spite was gone and there was a dragon there. We attempted to not antagonise the dragon. The dragon attacked Spite's ogre friend. The ogre was really an Oni. We killed the oni quickly.
 
-Chatted to the dragon afterwards. Ivy healed it and she was friendly to us. We sent her to the moon (and decided to check it ourselves next session).
+Chatted to the dragon afterwards. It is named The Adored. Ivy healed it and she was friendly to us. We sent her to the moon (and decided to check it ourselves next session).
