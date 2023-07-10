@@ -12,6 +12,7 @@ Distinguished southern gentleman and dojo master. Fights with a sword-cane
 
 * **Old Master** – You gain two qi points rather than 1 per sessions.
 * **Sensei** – While performing an action where your respected position as master of a Dojo would be an advantage, you may gain +1 dice.
+* **Flow of Qi** - You may spend Qi points for other people as well as yourself.
 
 #### Combat Power (_Fire_)
 
@@ -25,6 +26,7 @@ Bodyguard and companion to Harlem, from the legendary Saint family (who pass dow
 
 * **Tool for the Job** – Twice per session, you may describe how you have the perfect gadget for a task and gain +1 dice. 
 * **Sorry, I’m British** – While performing an action where being mild mannered, polite or terribly apologetic would be an advantage, you may gain +1 dice.  
+* **Flesh Wound** - Once per fight you may lose a hit point to gain +2 to an attack/block dice (can't be used on stunts) 
 
 #### Combat Power (_Earth_)
 
@@ -37,7 +39,8 @@ Distant cousin of Harlem from Japan. Improvised weapon fighter who is cursed to 
 #### Powers
 
 * **Improvisational Prodigy** – Once per session, when attempting a task that you can reasonable claim never to have attempted before, you may fully succeed without having to roll.
-* **Lazy** – While performing an action to take a shortcut, save time or effort, or otherwise avoid actual work, you may gain +1 dice. 
+* **Lazy** – While performing an action to take a shortcut, save time or effort, or otherwise avoid actual work, you may gain +1 dice.
+* **Pocket Sand** - Once per fight, you may pull out an item that you have specifically mentioned saving earlier. You gain +1 to your first attack/block dice using that item (can't be used on stunts).
 
 #### Combat Power (_Water_)
 
