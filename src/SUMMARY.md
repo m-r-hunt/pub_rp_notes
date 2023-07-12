@@ -21,6 +21,7 @@
 # Dungeon of the Mad Bear
 
 - [Introduction](dotmb/introduction.md)
+- [Portals](dotmb/portals.md)
 - [Session X](dotmb/session_x.md)
 - [Session X+1](dotmb/session_x_1.md)
 - [Session X+2](dotmb/session_x_2.md)
@@ -38,3 +39,4 @@
 - [Session 2](kfc/session_2.md)
 - [Session 3](kfc/session_3.md)
 - [Session 4](kfc/session_4.md)
+- [Session 5](kfc/session_5.md)
