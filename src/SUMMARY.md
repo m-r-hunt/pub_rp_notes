@@ -27,7 +27,9 @@
 - [Session X+2](dotmb/session_x_2.md)
 - [Session X+3](dotmb/session_x_3.md)
 - [Session X+4](dotmb/session_x_4.md)
-- [Session X+4](dotmb/session_x_5.md)
+- [Session X+5](dotmb/session_x_5.md)
+- [Session X+6](dotmb/session_x_6.md)
+- [Session X+7](dotmb/session_x_7.md)
 
 ---
 
