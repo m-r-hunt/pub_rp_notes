@@ -30,6 +30,7 @@
 - [Session X+5](dotmb/session_x_5.md)
 - [Session X+6](dotmb/session_x_6.md)
 - [Session X+7](dotmb/session_x_7.md)
+- [Session X+8](dotmb/session_x_8.md)
 
 ---
 
@@ -45,3 +46,4 @@
 - [Session 5](kfc/session_5.md)
 - [Session 6](kfc/session_6.md)
 - [Session 7](kfc/session_7.md)
+- [Session 8](kfc/session_8.md)
