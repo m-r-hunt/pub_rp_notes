@@ -2,7 +2,7 @@
 
 ## Facts
 
-Recap by newscasters again (?).
+Recap was another entry from Captain Burton's diary.
 
 * Alex had to check old tape
 * Multiple cyber apes exist
