@@ -1,6 +1,6 @@
 # Session X+9
 
-_Date: 3/9/23_
+_Date: 27/8/23_
 
 Attendance: Not me
 
