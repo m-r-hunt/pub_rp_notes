@@ -2,6 +2,8 @@
 
 _Date: 10/9/23_
 
+Attendance: Everyone
+
 Recap.
 
 Encountered a worm trench. Dug by a mechanical giant worm named Dug. Armitox is interested in the poison.
@@ -17,3 +19,5 @@ Ended up deciding to help the hobgoblins against Zux. Went north to a big battle
 Helped some hobgoblins snipe at the monsters around the big arch. We beat them all up although all the hobgobs died, including Kellog. Some of us coincidentally found some shiny new +1 half plate.
 
 Zarrus attempted to kill the arch with his warpick but did not have much success.
+
+
