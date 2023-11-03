@@ -16,4 +16,4 @@ Went over near Zox, all the spellcasters can feel magic near the big gate.
 
 Decided to go to Torbrand's workshop. Went east and found a cavern with some rust monsters and metal bees. Ignored them, went north to find Torbrand's workshop.
 
-Torbrand's workshop had a bunch of junk. Also a big war platform thing. We fought the big war platform thing.
+Torbrand's workshop had a bunch of junk. Also a big war platform thing (shocker stomper). We fought the big war platform thing. It was kinda tough but we got there by making it into a big bottle.
