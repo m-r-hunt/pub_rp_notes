@@ -40,6 +40,7 @@
 - [Session X+15](dotmb/session_x_15.md)
 - [Session X+16](dotmb/session_x_16.md)
 - [Session X+17](dotmb/session_x_17.md)
+- [Session X+18](dotmb/session_x_18.md)
 
 ---
 
