@@ -1,6 +1,6 @@
 # Session X+18
 
-_Date: 05/01/24_
+_Date: 29/12/23_
 
 Attendance: Everyone
 
