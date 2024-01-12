@@ -1,5 +1,9 @@
 # Session X+18
 
+_Date: 05/01/24_
+
+Attendance: Everyone
+
 Hanging out in the portal room. Everything started leaking black ink and then we got zapped by beholder beams. The dwarf got disintegrated, rest of us got fucked up in some way.
 
 Faffed around healing and resummoning.
