@@ -46,6 +46,7 @@
 - [Session X+21](dotmb/session_x_21.md)
 - [Session X+22](dotmb/session_x_22.md)
 - [Session X+23](dotmb/session_x_23.md)
+- [Session X+24](dotmb/session_x_24.md)
 
 ---
 
