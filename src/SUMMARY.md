@@ -4,6 +4,13 @@
 
 ---
 
+# Knights Fight Chaos
+
+- [Session 1](knights/session_1.md)
+- [Session 2](knights/session_2.md)
+
+---
+
 # Powered by the Mechpocalypse
 
 - [Session 1](battletech/session_1.md)
