@@ -8,6 +8,7 @@
 
 - [Session 1](knights/session_1.md)
 - [Session 2](knights/session_2.md)
+- [Session 3](knights/session_3.md)
 
 ---
 
